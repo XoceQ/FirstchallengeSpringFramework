@@ -1,4 +1,5 @@
-Lightweight application developed in Java to consume and process real-time stock information from the Stock Data API. to quickly access relevant stock data, such as ticker, name, currency and price.
+<h1>Lightweight application developed in Java to consume and process real-time stock information from the Stock Data API. to quickly access relevant stock data, such as ticker, name, currency and price.<h1>
+  
 🧰 Tools used
 Language: Java
 Maven: Dependency management
