@@ -1,6 +1,6 @@
 <h1>Lightweight Application for Stock Information</h1>
 <p>
-A lightweight application developed in Java to consume and process real-time stock information from the Stock Data API. It enables quick access to relevant stock data, such as <strong>ticker</strong>, <strong>name</strong>, <strong>currency</strong>, and <strong>price</strong>.
+A lightweight application developed in Java to consume and process stock information from the Stock Data API. It enables quick access to relevant stock data, such as <strong>ticker</strong>, <strong>name</strong>, <strong>currency</strong>, and <strong>price</strong>.
 </p>
 
 <h2>🧰 Tools Used</h2>
